@@ -1,0 +1,43 @@
+{
+  "Prodz": [
+    {
+      "id": 1,
+      "prodName": "Acacia",
+      "image": "https://scontent.ftun1-2.fna.fbcdn.net/v/t1.6435-9/156421245_861196288071146_5018051198627721246_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_ohc=ps2s1NxMqCQAX8vmfI-&_nc_ht=scontent.ftun1-2.fna&oh=00_AT930n9WIB9kgNMiNTp112Iym56rlSvLNQM_jHGxPoHiOg&oe=62686B48",
+      "price": "100 dt"
+    },
+    {
+      "id": 2,
+      "prodName": "Mountain Honey",
+      "image": "https://scontent.ftun1-2.fna.fbcdn.net/v/t39.30808-6/248508300_1012014122989361_4187266676990596176_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=KRKZv60e8ewAX8PhNaV&_nc_oc=AQkKoMPMM9ap8Wug7ELf_NpVTCWUpjAwosO_duyToTzYeDN6jONdhc6pO4TkUPr5iBI&_nc_ht=scontent.ftun1-2.fna&oh=00_AT_BVsMZxeiqca_1-Y9FrAivoOID6TAPOAoXghqKU7s1cA&oe=62482CA1",
+      "price": "120 dt"
+    },
+    {
+      "id": 3,
+      "prodName": "MielleFiori honey",
+      "image": "https://scontent.ftun1-2.fna.fbcdn.net/v/t1.6435-9/156421245_861196288071146_5018051198627721246_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_ohc=ps2s1NxMqCQAX8vmfI-&_nc_ht=scontent.ftun1-2.fna&oh=00_AT930n9WIB9kgNMiNTp112Iym56rlSvLNQM_jHGxPoHiOg&oe=62686B48",
+      "price": "140 dt"
+    }
+  ],
+  "Prodotti": [
+    {
+      "id": 1,
+      "prodName": "Bio uno",
+      "image": "https://www.efanews.eu/resources/9667e899a16988cb6cbbe849d5e598a2.jpg",
+      "price": "100 €"
+    },
+    {
+      "id": 2,
+      "prodName": "Bio due",
+      "image": "https://www.carrefour.it/dw/image/v2/BDWP_PRD/on/demandware.static/-/Library-Sites-carrefour-library-IT/default/dwb267b5d8/images/landing/2021/i-nostri-marchi-dettaglio/bio/CRFBio_Groupage_2x-min.jpg",
+      "price": "120 €"
+    },
+    {
+      "id": 3,
+      "prodName": "Bio tre",
+      "image": "https://www.efanews.eu/resources/9667e899a16988cb6cbbe849d5e598a2.jpg",
+      "price": "140 €"
+    }
+    
+  ]
+}
